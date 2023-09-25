@@ -1,0 +1,3 @@
+[submodule "tools/checkov"]
+	path = tools/checkov
+	url = https://github.com/bridgecrewio/checkov
