@@ -7,3 +7,6 @@
 [submodule "analysis/Azure-VM-Code"]
 	path = analysis/Azure-VM-Code
 	url = https://github.com/Azure/terraform-azurerm-virtual-machine
+[submodule "tools/easy_infra"]
+	path = tools/easy_infra
+	url = https://github.com/SeisoLLC/easy_infra
