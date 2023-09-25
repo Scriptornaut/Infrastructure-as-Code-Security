@@ -4,3 +4,6 @@
 [submodule "tools/prowler"]
 	path = tools/prowler
 	url = https://github.com/prowler-cloud/prowler
+[submodule "analysis/Azure-VM-Code"]
+	path = analysis/Azure-VM-Code
+	url = https://github.com/Azure/terraform-azurerm-virtual-machine
